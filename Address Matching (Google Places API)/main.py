@@ -21,7 +21,7 @@ def geocode(api_key, address):
     return response.json()
 
 
-api_key = "AIzaSyCBO-qloWPV5u7VcHlWtEA5OJmVtwy5ZdM"
+api_key = "YOUR OWN API KEYS"
 location1 = "'5 E 98TH ST, NEW YORK, NY, 10029"
 location2 = "5 E 98th St Fl 9, New York, NY, 10029"
 location3 = "14 Technology Dr Ste 12, East Setauket, NY, 11733"
