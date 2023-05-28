@@ -1,5 +1,5 @@
 Recall: The main goal is verify that the address from the main provider repository is correct. 
-So, we want to compare its address with several other pilot datasets we mentioned in previous slides.
+So, we want to compare its address with several other pilot datasets.
 However, we cannot directly compare the address Strings as the same address can have slightly different format in two different datasets. 
 Thus we need some method for address matching
 
